@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Empresariales</string>
+    <string name="btn_text_calcular_distancia">Calcular distancia</string>
+    <string name="title_activity_referencia">Referencia</string>
+    <string name="hint_origen">Origen</string>
+    <string name="hint_destino">Destino</string>
+</resources>
